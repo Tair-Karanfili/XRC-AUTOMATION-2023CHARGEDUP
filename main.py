@@ -10,8 +10,8 @@ xMov = 0
 
 
 Key = True
-TRotL = 0
-AutoShoot = 0
+
+
 
 while True:
     start = time.time()
